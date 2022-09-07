@@ -1,5 +1,5 @@
 # Build a blockchain-based ledger system
-### This system allows users to save senders, receivers and amount and then verify the integrity of their data. 
+### This system allows users to save senders, receivers and amount and then verify the integrity of the data. 
 ## Step 1: Create a Record Data Class
 ### Define a new Python data class named Record. Give this new class a formalized data structure that consists of the sender, receiver, and amount attributes.
 ## Step 2: Modify the Existing Block Data Class to Store Record Data
